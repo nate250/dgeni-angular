@@ -1,0 +1,8 @@
+effortlessly generate html documentation from angular source
+ - generate module-level documentation
+ - generate service documentation
+ - generate directive/component documentation
+ - generate provider documentation
+ - generate member documentation
+customize templates
+integrate with gulp/grunt
